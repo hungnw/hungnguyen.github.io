@@ -1,6 +1,6 @@
 # hungnguyen.github.io
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:+1: Oh yeah, do you wanna explore my page? :shipit:
 
 Tested website:
 
